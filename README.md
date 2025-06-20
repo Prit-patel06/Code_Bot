@@ -1,2 +1,2 @@
 # Code_Bot
- A beginner-friendly chatbot to help with coding + motivation.
+This is a beginner-friendly chatbot project made to help people with coding basics and daily motivation. More features coming soon!
